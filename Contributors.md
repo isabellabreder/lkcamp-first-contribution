@@ -14,3 +14,4 @@
 - [Gabriela Souza](https://gitlab.com/gabivsouza)
 - [Valentina Spohr](https://gitlab.com/valentina.spohr)
 - [Henrique Parede](https://gitlab.com/henriquehpds)
+- [Gustavo Sousa](https://gitlab.com/gugugupavo)

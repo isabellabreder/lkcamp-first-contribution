@@ -1,6 +1,7 @@
 # Contribuidores
 
 - [Isabella Breder](https://gitlab.com/isabellabreder)
+- [Henrique F. Simões](https://gitlab.com/henriquesimoes)
 - [Rafaela Barril](https://github.com/rafasb0)
 - [Ana Helena Leite](https://github.com/anahelenatla)
 - [Thiago Pavão](https://github.com/ThiagoMaxPavao)
@@ -8,3 +9,4 @@
 - [Henrique F. Simões](https://gitlab.com/henriquesimoes)
 - [Kevin Caio](https://github.com/Kvn12)
 - [Leonardo Kenji](https://github.com/leo-kenji)
+- [Paulo Pacitti](https://github.com/paulopacitti)

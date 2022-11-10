@@ -1,3 +1,3 @@
 # Contribuidores
 
-- [Isabella Breder](https://gitlab.com/isabellabreder)
+- [Henrique Parede](https://gitlab.com/henriquehpds)

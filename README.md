@@ -4,7 +4,7 @@ Este é um local para que os participantes em hackathons e outros eventos promov
 
 ## Tutorial
 
-Para contribuir, siga o [tutorial do LKCAMP](https://lkcamp.dev/) que explica o passo a passo do *setup* de git e GitLab/GitHub, o *fork*, o *clone*, as modificações, até o *merge request* (MR) ou *pull request* (PR).
+Para contribuir, siga o [tutorial do LKCAMP](https://lkcamp.dev/posts/hackathon-de-1-caractere-parte-i/) que explica o passo a passo do *setup* de git e GitLab/GitHub, o *fork*, o *clone*, as modificações, até o *merge request* (MR) ou *pull request* (PR).
 
 ## Modificações
 

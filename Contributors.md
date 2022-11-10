@@ -10,3 +10,4 @@
 - [Kevin Caio](https://github.com/Kvn12)
 - [Leonardo Kenji](https://github.com/leo-kenji)
 - [Paulo Pacitti](https://github.com/paulopacitti)
+- [Gabriela Souza](https://gitlab.com/gabivsouza)

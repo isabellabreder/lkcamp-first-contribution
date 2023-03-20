@@ -15,3 +15,4 @@
 - [Valentina Spohr](https://gitlab.com/valentina.spohr)
 - [Henrique Parede](https://gitlab.com/henriquehpds)
 - [Gustavo Sousa](https://gitlab.com/gugugupavo)
+- [Leticia Brito](https://github.com/Asteria101)

@@ -16,3 +16,4 @@
 - [Henrique Parede](https://gitlab.com/henriquehpds)
 - [Gustavo Sousa](https://gitlab.com/gugugupavo)
 - [Yan Oliveira](https://github.com/Cl4nyz)
+- [Leticia Brito](https://github.com/Asteria101)
